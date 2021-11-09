@@ -7,12 +7,15 @@ The Disaster Reporting Network is interested in creating a visualization tool th
 ### Results
 
 Tectonic Plate Data
+![tectonic_plates](https://user-images.githubusercontent.com/88510296/140967664-b3b748d9-e3ba-4fb4-ac04-9aa8968d18e6.png)
 
 
 Major Earthquake Data
+![earthquakes_maj_min](https://user-images.githubusercontent.com/88510296/140967676-dd811276-3431-4302-95e5-6aac50964145.png)
 
 
 Additional Dark Map
+![darkmap](https://user-images.githubusercontent.com/88510296/140967687-c7386d07-6558-4fa2-9a5a-21b33c0e69ca.png)
 
 
 ### Summary
